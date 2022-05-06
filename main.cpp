@@ -63,4 +63,3 @@ void loop() {
   }
 }
 //OVERALL: The code, when activated by a detection of an IR signal, brings the eraser up from its resting place at the bottom of the whiteboard by using servos to roll up string. Once the eraser gets to the top of the board, it physically nudges a whisker to hit one of the two headers. When this happens, the servos move in the opposite directions, lowering the eraser back down to its resting position and disconnecting the servos.
-//the goal of this program is to move an eraser from the bottom of a whiteboard up to the top of it, where it should be detected and stoped from moving any higher, completing its erase.
